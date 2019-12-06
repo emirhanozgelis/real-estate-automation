@@ -1,0 +1,22 @@
+c:\users\emrhn\onedrive\belgeler\visual studio 2015\Projects\projeOdevi2\projeOdevi2\bin\Debug\projeOdevi2.exe
+c:\users\emrhn\onedrive\belgeler\visual studio 2015\Projects\projeOdevi2\projeOdevi2\bin\Debug\projeOdevi2.pdb
+c:\users\emrhn\onedrive\belgeler\visual studio 2015\Projects\projeOdevi2\projeOdevi2\obj\Debug\projeOdevi2.csprojResolveAssemblyReference.cache
+c:\users\emrhn\onedrive\belgeler\visual studio 2015\Projects\projeOdevi2\projeOdevi2\obj\Debug\projeOdevi2.Form1.resources
+c:\users\emrhn\onedrive\belgeler\visual studio 2015\Projects\projeOdevi2\projeOdevi2\obj\Debug\projeOdevi2.müsteri.resources
+c:\users\emrhn\onedrive\belgeler\visual studio 2015\Projects\projeOdevi2\projeOdevi2\obj\Debug\projeOdevi2.Properties.Resources.resources
+c:\users\emrhn\onedrive\belgeler\visual studio 2015\Projects\projeOdevi2\projeOdevi2\obj\Debug\projeOdevi2.csproj.GenerateResource.Cache
+c:\users\emrhn\onedrive\belgeler\visual studio 2015\Projects\projeOdevi2\projeOdevi2\obj\Debug\projeOdevi2.exe
+c:\users\emrhn\onedrive\belgeler\visual studio 2015\Projects\projeOdevi2\projeOdevi2\obj\Debug\projeOdevi2.pdb
+C:\Users\emrhn\onedrive\belgeler\visual studio 2015\Projects\projeOdevi2\projeOdevi2\obj\Debug\projeOdevi2.ev.resources
+C:\Users\emrhn\Desktop\G161210079\projeOdevi2\obj\Debug\projeOdevi2.exe
+C:\Users\emrhn\Desktop\G161210079\projeOdevi2\obj\Debug\projeOdevi2.pdb
+C:\Users\hp\Desktop\projeler\G161210079\projeOdevi2\bin\Debug\projeOdevi2.exe
+C:\Users\hp\Desktop\projeler\G161210079\projeOdevi2\bin\Debug\projeOdevi2.pdb
+C:\Users\hp\Desktop\projeler\G161210079\projeOdevi2\obj\Debug\projeOdevi2.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\projeler\G161210079\projeOdevi2\obj\Debug\projeOdevi2.ev.resources
+C:\Users\hp\Desktop\projeler\G161210079\projeOdevi2\obj\Debug\projeOdevi2.Form1.resources
+C:\Users\hp\Desktop\projeler\G161210079\projeOdevi2\obj\Debug\projeOdevi2.müsteri.resources
+C:\Users\hp\Desktop\projeler\G161210079\projeOdevi2\obj\Debug\projeOdevi2.Properties.Resources.resources
+C:\Users\hp\Desktop\projeler\G161210079\projeOdevi2\obj\Debug\projeOdevi2.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\projeler\G161210079\projeOdevi2\obj\Debug\projeOdevi2.exe
+C:\Users\hp\Desktop\projeler\G161210079\projeOdevi2\obj\Debug\projeOdevi2.pdb
